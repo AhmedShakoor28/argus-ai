@@ -1,0 +1,46 @@
+FIRE AND SMOKE DISASTER RESPONSE PROTOCOL
+(Adapted from Pakistan's National Disaster Management Authority response framework)
+
+RISK FACTORS AND TRIGGERS
+Fire risk (structural, forest, or industrial) increases significantly under:
+- Low humidity and high temperature conditions
+- Dry vegetation combined with wind (for forest/wildland fires)
+- Electrical faults or poor safety compliance in industrial/urban settings
+- Absence of recent rainfall, which allows fuel sources (vegetation, debris) to dry out
+Fire risk is generally reduced in conditions of high humidity or active rainfall, which should be factored into verification of any fire detection.
+
+EARLY WARNING THRESHOLDS
+- Watch (Level 1): Weather conditions indicate elevated fire risk (high heat, low humidity, dry spell). Action: issue public advisory, alert fire services to be on standby.
+- Alert (Level 2): Smoke detected via monitoring (satellite, camera network, or reported sighting) but not yet confirmed as active fire, or a confirmed small fire within control. Action: dispatch verification team or nearest fire unit, prepare evacuation routes for nearby structures if applicable.
+- Evacuate (Level 3): Active, spreading fire confirmed, threatening structures or populated areas. Action: full evacuation of at-risk zone, full fire service deployment, activation of emergency operations center.
+
+RESPONSE MECHANISM (TIERED ACTIVATION)
+Tier 1 - Local Response: Local fire services and district disaster authorities handle contained fires within normal operational capacity.
+Tier 2 - Provincial Response: Activated when a fire exceeds local suppression capacity, spans multiple jurisdictions, or threatens critical infrastructure. Provincial assets (additional firefighting units, aerial water/retardant drops where available) are mobilized.
+Tier 3 - National Response: Activated for large-scale wildland fires or major industrial/urban fires affecting multiple provinces or requiring specialized national assets (military aviation support, cross-border assistance).
+
+FIRE SUPPRESSION AND SAFETY PROCEDURES
+- Establish a safe perimeter and evacuate all non-essential personnel before suppression efforts begin.
+- For wildland/forest fires, prioritize creating firebreaks ahead of the fire's projected path, factoring in wind direction and speed.
+- For structural/industrial fires, coordinate with utility providers to cut gas and electrical supply to the affected area before entry.
+- Use thermal imaging drones where available to detect hotspots not visible to ground teams and to monitor for fire spread direction.
+- Maintain communication with meteorological services for real-time wind and humidity updates, which directly affect fire behavior.
+
+IMMEDIATE RESPONSE CHECKLIST
+1. Confirm the detection and assess scale and spread rate.
+2. Activate the appropriate response tier based on scale and threat to structures/population.
+3. Establish an incident command post upwind of the fire.
+4. Deploy fire suppression teams and evacuate at-risk structures/areas.
+5. Set up a casualty collection and triage point for smoke inhalation or burn injuries.
+6. Coordinate road closures and evacuation routes with traffic authorities.
+7. Monitor air quality downwind for smoke-related public health advisories.
+8. Establish relief point for displaced residents.
+9. Once contained, conduct hotspot monitoring for 24-48 hours to prevent flare-ups.
+
+RECOVERY CONSIDERATIONS
+- Conduct structural safety assessments before allowing residents to return to fire-affected buildings.
+- For wildland fires, assess soil stability on burned slopes, since vegetation loss can increase landslide risk in subsequent rainfall.
+- Conduct a post-event review to identify ignition cause and update prevention guidance.
+
+VULNERABLE GROUPS
+Special consideration should be given to residents with respiratory conditions during smoke exposure events, as well as elderly residents and young children who are more susceptible to smoke inhalation effects.

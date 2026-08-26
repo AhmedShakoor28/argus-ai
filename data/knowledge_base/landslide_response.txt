@@ -1,0 +1,46 @@
+LANDSLIDE DISASTER RESPONSE PROTOCOL
+(Adapted from Pakistan's National Disaster Management Authority response framework)
+
+RISK FACTORS AND TRIGGERS
+Landslides in mountainous regions are typically triggered by one or more of the following:
+- Heavy or prolonged rainfall saturating soil on slopes
+- Earthquakes destabilizing slope material
+- Rapid snowmelt combined with saturated ground
+- Human activity such as road construction or deforestation on unstable slopes
+Regions with steep terrain, loose sedimentary rock, and monsoon rainfall exposure carry elevated baseline risk.
+
+EARLY WARNING THRESHOLDS
+A tiered warning system should be used:
+- Watch (Level 1): Rainfall forecast exceeding safe thresholds for the region, or satellite imagery showing ground movement precursors. Action: issue public advisory, alert local authorities, pre-check emergency stocks.
+- Alert (Level 2): Confirmed heavy rainfall in progress, or visible slope cracking/movement reported. Action: partial activation of emergency response teams, pre-position rescue equipment, begin evacuation of highest-risk households.
+- Evacuate (Level 3): Active landslide detected or imminent failure confirmed by field observation or automated detection. Action: full evacuation of at-risk zone, deployment of search and rescue teams, activation of emergency operations center.
+
+RESPONSE MECHANISM (TIERED ACTIVATION)
+Tier 1 - Local Response: Managed by district-level disaster authorities for small, contained incidents. Includes immediate search and rescue, first aid, and evacuation of the directly affected community.
+Tier 2 - Provincial Response: Activated when the incident exceeds local capacity, e.g. blocks a major road or affects multiple communities. Provincial teams mobilize additional rescue assets, medical support, and temporary shelter.
+Tier 3 - National Response: Activated for large-scale events affecting multiple districts or requiring specialized equipment (heavy machinery for debris clearance, helicopter evacuation). National-level coordination and, where needed, international assistance requests occur at this tier.
+
+SEARCH AND RESCUE PROCEDURES
+- Deploy trained search and rescue teams equipped with rope rescue gear, thermal imaging (for locating buried survivors), and debris-clearing tools.
+- Establish a safe perimeter around the slide area before rescue operations begin, since secondary slides are common in the hours following an initial event.
+- Use drones or aerial reconnaissance where available to assess the full extent of the slide and identify additional at-risk areas nearby.
+- Coordinate with local community volunteers who often have the fastest initial response time before official teams arrive.
+
+IMMEDIATE RESPONSE CHECKLIST
+1. Confirm the event and assess scale (number of structures/people affected, blocked routes).
+2. Activate appropriate response tier based on scale.
+3. Establish an incident command post near the affected area.
+4. Deploy search and rescue teams with appropriate equipment for terrain.
+5. Evacuate any structures still at risk of secondary slides.
+6. Set up a casualty collection and triage point.
+7. Coordinate with meteorological services to monitor for continued rainfall that could trigger further slides.
+8. Establish relief distribution point for displaced residents (water, shelter, medical care).
+9. Begin damage assessment for infrastructure (roads, utilities) once the area is declared safe.
+
+RECOVERY CONSIDERATIONS
+- Assess whether the affected slope remains unstable before allowing residents to return.
+- Consider "Build Back Better" principles: any reconstruction should account for the landslide risk that caused the original event, potentially relocating structures away from the highest-risk zones.
+- Conduct a post-event review to document lessons learned and update local hazard maps.
+
+VULNERABLE GROUPS
+Special consideration should be given during evacuation and relief to elderly residents, persons with disabilities, and families with young children, who may need additional assistance evacuating steep or damaged terrain.
