@@ -104,7 +104,3 @@ You'll need a `.env` with your own Gemini API key and news/weather API keys — 
 - Grad-CAM explainability heatmaps for detection results
 - Broader disaster type coverage (flood, once a cleaner dataset is available)
 - Live deployment (currently local-only — see limitations on free container hosting in 2026)
-
----
-
-Built by Ahmad as a portfolio project demonstrating an end-to-end applied ML system: computer vision, retrieval-augmented generation, multi-agent orchestration, and full-stack delivery.
