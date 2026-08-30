@@ -99,14 +99,6 @@ Runs at `http://localhost:5173`, proxies `/api` requests to the backend.
 
 You'll need a `.env` with your own Gemini API key and news/weather API keys — see `.env.example`.
 
----
-
-## Demo
-
-🎥 [Watch the demo video](#) <!-- add your video link here -->
-
----
-
 ## Roadmap / Future Work
 
 - Grad-CAM explainability heatmaps for detection results
