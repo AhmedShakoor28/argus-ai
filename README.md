@@ -4,9 +4,9 @@
 
 > Built to close the gap between raw detection and a decision-ready alert: a model saying "fire, 92% confidence" isn't useful to a responder — knowing whether it's *plausible*, what the weather's doing, and what to do next, is.
 
-![Argus-AI Screenshot](docs/screenshot.png)
+![Argus-AI Screenshot](screenshot.png)
 
-![Argus-AI Analysis Results](docs/results.png)
+![Argus-AI Analysis Results](results.png)
 
 ---
 
